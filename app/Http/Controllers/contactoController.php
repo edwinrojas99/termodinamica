@@ -18,6 +18,6 @@ class contactoController extends Controller
         if($saved){
              return redirect('contacto')->with('status', 'Tu mensaje a sido enviado correctamente');
         }
-        return redirect()->hack()->withImput()->withErrors('no se envio tu mensaje');
+        return redirect()->hack()->withImput()->withErrors('no  se envio tu mensaje vuelva intentar');
     }
 }
