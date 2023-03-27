@@ -143,7 +143,7 @@
                     </div>
                     <div class="col-md-6">
                       <label for="inputPassword4" class="form-label">Apellido</label>
-                      <input type="text" class="" id="" name="apellido">
+                      <input type="text" class="form-control" id="" name="apellido">
                     </div>
                     <div class="col-12">
                       <label for="inputAddress" class="form-label">Email</label>
