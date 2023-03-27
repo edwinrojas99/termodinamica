@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <meta charset="utf-8">
@@ -73,7 +73,7 @@
     <div class="container">
       <br>
       <center>
-        <h3>CONTÁCTENOS</h3>
+        <h1>CONTÁCTENOS</h1>
       </center>
       <br>
       <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
@@ -109,9 +109,7 @@
         <div class="col-sm-6 mb-3 mb-sm-0">
           <div class="card">
             <div class="card-body">
-              
-                  
-           
+
               <h3 class="card-title">Formulario de Contacto</h3>
               <p class="card-text">
 
@@ -253,7 +251,6 @@
         <a href="#"><i class="fa fa-twitter"></i></a>
         <a href="#"><i class="fa fa-linkedin"></i></a>
       </div>
-
     </div>
   </footer>
   <script src="{{asset('assets/dist/js/bootstrap.bundle.min.js')}}"></script>
