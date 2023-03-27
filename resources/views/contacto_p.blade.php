@@ -17,17 +17,6 @@
 
   <link href="{{asset('css/estilo.css')}}" rel="stylesheet">
   <link href="{{asset('css/estilocontacto.css')}}" rel="stylesheet">
-  <style>
-    
-    .map-container iframe {
-      left: 0;
-      top: 0;
-      height: 100%;
-      width: 100%;
-      position: absolute;
-    }
-  </style>
-  <!-- Custom styles for this template -->
   <link href="product.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 </head>
