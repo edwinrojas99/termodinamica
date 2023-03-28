@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="es">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,18 +8,17 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.104.2">
     <title>TERMODINAMICA</title>
-     <!-- Fonts -->
-     <link rel="preconnect" href="https://fonts.bunny.net">
-     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
         crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js"
         crossorigin="anonymous"></script>
-    <link href="css/estilosass.css" rel="stylesheet">
-</head>
+        
+        <link href="css/estilo.css" rel="stylesheet">
+        <link href="css/sobrenosotros.css" rel="stylesheet">
 
+</head>
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-red navbar-dark">
@@ -68,48 +68,53 @@
         </div>
     </nav>
 
-    <img src="https://termodinamicaltd.com/wp-content/uploads/2021/10/termodinamica-cochabamba.jpg" class="img-fluid">
     <main>
-        <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-            <div class="col-md-5 p-lg-5 mx-auto my-5">
-                <h1 class="display-4 fw-normal"> TERMODINAMICA</h1>
-                <p class="lead fw-normal">Hace más de 40 años que TERMODINÁMICA LTDA. representa con carácter de
-                    exclusividad para Bolivia, a marcas de renombre internacional, proveyendo equipos profesionales
-                    conocidos como los mejores en su ramo.</p>
+        <div class="my-3 p-3">
 
-            </div>
-
-        </div>
-
-
-
-
-        <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-            <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-                <div class="my-3 p-3">
-                    <h2 class="display-5">PRODUCTOS</h2>
-                    <p class="lead">Contamos con un amplio stock de máquinas altamente eficientes garantizando un
-                        trabajo excepcional para todos los profesionales en el campo</p>
-                </div>
-                <div class="bg-body shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
-                    <img src="https://termodinamicaltd.com/wp-content/uploads/2022/02/desmalezadora-shindaiwa-c35-300x300.jpg" alt=""
-                        sizes="" srcset="" class="img-fluid" height="200">
-                    <main>
+            <center>
+                <img src="img/termo.jpg" class="img-fluid" alt="...">
+            </center>
+            <div class="my-3 p-3">
+                <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                    <h2>Sobre Nosotros</h2>
+                    <p class="lead">TERMODINÁMICA LTDA. es una empresa comercial que desde hace más de 40 años cuenta
+                        con la representación exclusiva de varios fabricantes de equipos de renombre internacional en
+                        Bolivia. Trabajamos suministrando equipos y servicios tanto a individuos como a compañías
+                        privadas y gubernamentales.</p>
                 </div>
             </div>
-            <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-                <div class="my-3 py-3">
-                    <h2 class="display-5">SERVICIOS</h2>
-                    <p class="lead">Ofrecemos mantenimiento de equipos industriales</p>
-                </div>
-                <br> <br> 
-                <div class="bg-body shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
-                    <br> <br> 
-                   <img src="img/termo.jpg" class="img-fluid" alt="...">
-                    <main>
-                </div>
-            </div>
-        </div>
+            <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+                <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+                    <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                        <div class="my-3 p-3">
+                            <h2>Mision</h2>
+                            <p class="lead">Ofrecer a nuestros clientes agroforestales y del sector energético en el
+                                mercado nacional, maquinaria y servicio técnico de calidad, contribuyendo a incrementar
+                                su eficiencia y su productividad, con una mejora continua de los procesos, para alcanzar
+                                el crecimiento sostenible de nuestra empresa.</p>
+                        </div>
+                        <div class="bg-body shadow-sm mx-auto"
+                            style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
+                            <img src="https://fundamentosdelmarketing.ar/wp-content/uploads/Mision-Fundamentos-del-marketing-Daniel-Ariel-Milano.png"
+                                alt="" sizes="" srcset="" class="img-fluid" height="200">
+
+                        </div>
+                    </div>
+                    <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                        <div class="my-3 py-3">
+                            <h2>Vision</h2>
+                            <p class="lead">Somos una empresa comercializadora, de máquinas agroforestales y
+                                representantes de equipos para la industria de energía, con presencia y participación en
+                                el mercado nacional, ofreciendo calidad, seriedad y responsabilidad; con un personal
+                                motivado, debido al compromiso de la empresa con sus recursos humanos, para lograr una
+                                buena rentabilidad.</p>
+                        </div>
+                        <div class="bg-body shadow-sm mx-auto"
+                            style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
+                            <img src="https://sites.google.com/site/beocktechnicalonline/_/rsrc/1472877194750/mision-vision/vision.jpg"
+                                alt="" sizes="" srcset="" class="img-fluid" height="200">
+
+                        </div>
 
     </main>
 
@@ -160,7 +165,7 @@
                 fabricantes de equipos de renombre internacional en Bolivia
             </p>
             <div class="footer-icons">
-                <a href="#"><i class="fa fa-facebook"  ></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-twitter"></i></a>
                 <a href="#"><i class="fa fa-linkedin"></i></a>
             </div>
@@ -171,7 +176,3 @@
 </body>
 
 </html>
-
-
-
-

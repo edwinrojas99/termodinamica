@@ -27,7 +27,7 @@
 
     </div>
     <div class="container-fluid all-show">
-      <a class="navbar-brand" href="index.html"><img src="{{asset('img/logo.png')}}" class="img-fluid"></a>
+      <a class="navbar-brand" href="{{route('welcome')}}"><img src="{{asset('img/logo.png')}}" class="img-fluid"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -35,22 +35,22 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+            <a class="nav-link active" aria-current="page" href="{{route('welcome')}}">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="sobrenosotros.html">Sobre Nosotros</a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link" href="productos.html">Productos</a>
+            <a class="nav-link" href="{{route('sobrenosotros')}}">Sobre Nosotros</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="divisionindustrial.html">Division Industrial</a>
+            <a class="nav-link" href="{{route('productos')}}">Productos</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="contactenos.html">Contáctenos</a>
+            <a class="nav-link" href="{{route('division')}}">Division Industrial</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="{{route('contacto')}}">Contáctenos</a>
           </li>
 
           <li class="nav-item">
